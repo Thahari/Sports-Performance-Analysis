@@ -1,0 +1,8 @@
+Creating a virtual environment:
+Step-1: python -m venv env
+Step-2: env\Scripts\activate
+
+Before running an app, make sure the necessary modules are installed in the virtual environment.
+
+After a virtual environment is enabled, run the app using:
+streamlit run app.py
