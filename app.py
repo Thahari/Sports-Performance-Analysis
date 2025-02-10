@@ -3,7 +3,6 @@ import pandas as pd
 import plotly.express as px  # type: ignore
 import plotly.graph_objects as go  # type: ignore
 import time
-import seaborn as sns
 from sklearn.metrics import accuracy_score, roc_auc_score, classification_report, ConfusionMatrixDisplay
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
